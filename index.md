@@ -1,7 +1,3 @@
-###### ggg  hhhh
-##### ggg  hhhh
-#### ggg  hhhh
-### ggg  hhhh
-## ggg  hhhh
 # nigg
 nihao 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
